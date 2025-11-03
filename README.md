@@ -51,14 +51,16 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LovekeshAnand&theme=dark&hide_border=false&layout=compact)
 
-### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=LovekeshAnand&theme=react-dark&hide_border=false)
+</div>
 
 ---
 
