@@ -1,12 +1,13 @@
 # 👋 Hey there! I'm Lovekesh Anand  
 
-🎓 **BTech CSE Student (2nd Year)** at Maharishi Dayanand University  
-💡 Passionate about **System-level Programming, Backend Engineering, and Linux Internals**  
-🚀 Currently exploring **eBPF, Kernel Development, and OS Design**  
+🎓 **BTech CSE Student (3rd Year)** at Maharishi Dayanand University  
+💡 Passionate about **Backend Engineering**  
+🚀 Currently exploring **Docker and Kubernetes**  
 
 ---
 
 ## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://lovekeshanand.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lovekesh.anand)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LovekeshAnand)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LovekeshAnand07)
