@@ -1,77 +1,127 @@
-# 👋 Hey there! I'm Lovekesh Anand  
+<!-- ==================== ANIMATED HEADER ==================== -->
 
-🎓 **BTech CSE Student (3rd Year)** at Maharishi Dayanand University  
-💡 Passionate about **Backend Engineering**  
-🚀 Currently exploring **Docker and Kubernetes**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lovekesh+Anand;Backend+Engineer;Infrastructure+Explorer;Production+Debugger;Building+Secure+Systems+⚡" />
+</p>
 
----
-
-## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://lovekeshanand.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lovekesh.anand)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LovekeshAnand)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LovekeshAnand07)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lovekeshanand6@gmail.com)
+<p align="center">
+  <a href="https://lovekeshanand.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/lovekesh-anand-443138318/">LinkedIn</a> •
+  <a href="https://github.com/LovekeshAnand">GitHub</a> •
+  <a href="mailto:lovekeshanand6@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+# ⚡ SYSTEM STATUS
 
-### 🧠 Core Languages & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases & ORMs
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+```bash
+Role: Backend Engineer
+Focus: Infrastructure + Security + Scalability
+Environment: Production
+Mindset: Debug First. Optimize Second. Scale Always.
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 About Me
+
+- 🎓 B.Tech CSE (3rd Year)  
+- 🛠️ IT Intern working with AWS, Linux & CI/CD  
+- 🔐 Built secure OTP-based authentication systems  
+- 🌍 Deployed applications on AWS EC2 with VPN-based restricted access  
+- 🐧 Debugged production issues at server & network level  
+- 🚀 Currently exploring Docker, Kubernetes & System Design  
+
+I don’t just write backend code.  
+I deploy it. Secure it. Monitor it. Fix it.
+
+---
+
+# 🛠 TECH STACK
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)
+
+---
+
+### ⚙ Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
+
+---
+
+### 🗄 Databases
+![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+
+---
+
+### ☁ Infrastructure
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![PM2](https://img.shields.io/badge/pm2-black?style=for-the-badge)
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=tokyonight&hide_border=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LovekeshAnand&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LovekeshAnand&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LovekeshAnand&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🔥 CURRENT LEARNING MODE
+
+```bash
+> docker build .
+> kubectl apply -f deployment.yaml
+> ssh ec2-user@production
+> pm2 logs
+> debug
+> deploy
+> repeat
+```
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🧩 Engineering Philosophy
+
+- Systems > Syntax  
+- Security > Speed  
+- Production > Tutorial  
+- Debugging is a superpower  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=LovekeshAnand&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🧼 FAANG-STYLE SUMMARY
+
+Backend Engineer with hands-on experience in:
+
+• Secure authentication architectures  
+• AWS EC2 deployments  
+• CI/CD automation  
+• Infrastructure debugging  
+• Linux-based production systems  
+
+Focused on building scalable, secure backend infrastructure.
+
+---
+
+<p align="center">
+  <b>“Backend is not endpoints. It's reliability under failure.”</b>
+</p>
