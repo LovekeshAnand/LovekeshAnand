@@ -37,7 +37,7 @@ I work close to infrastructure — not just at the controller layer.
 
 ### ☁️ Infrastructure & Deployment
 - EC2 provisioning & environment setup
-- Linux server debugging (netstat, lsof, ps, top)
+- Linux server debugging
 - PM2 process management
 - Jenkins-based deployment automation
 - Environment variable & secret handling
@@ -95,10 +95,10 @@ I work close to infrastructure — not just at the controller layer.
 ### 🌐 Networking & Security
 <p>
   <img src="https://img.shields.io/badge/OpenVPN-000000?style=for-the-badge&logo=openvpn" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Token_Based_Auth-000000?style=for-the-badge" />
 </p>
- 
 
 ---
 
