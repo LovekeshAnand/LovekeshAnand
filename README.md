@@ -1,7 +1,7 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lovekesh+Anand;Backend+Engineer;Infrastructure+Explorer;Production+Debugger;Building+Secure+Systems+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Lovekesh+Anand;Backend+Engineer;Infrastructure+Explorer;Production+Debugger;Building+Secure+Systems+⚡" />
 </p>
 
 <p align="center">
@@ -85,20 +85,6 @@ I deploy it. Secure it. Monitor it. Fix it.
 
 ---
 
-# 🔥 CURRENT LEARNING MODE
-
-```bash
-> docker build .
-> kubectl apply -f deployment.yaml
-> ssh ec2-user@production
-> pm2 logs
-> debug
-> deploy
-> repeat
-```
-
----
-
 # 🧩 Engineering Philosophy
 
 - Systems > Syntax  
@@ -108,9 +94,7 @@ I deploy it. Secure it. Monitor it. Fix it.
 
 ---
 
-# 🧼 FAANG-STYLE SUMMARY
-
-Backend Engineer with hands-on experience in:
+# Backend Engineer with hands-on experience in:
 
 • Secure authentication architectures  
 • AWS EC2 deployments  
