@@ -7,61 +7,29 @@
 
 ---
 
-## 🛠️ Telemetry & System Diagnostics
+## 🧠 About Me
 
-```bash
-$ systemctl status lovekesh-anand.service
-```
-
-```text
-● lovekesh-anand.service - Full-Stack & Systems Engineer Deck
-     Loaded: loaded (/etc/systemd/system/lovekesh-anand.service; enabled; vendor preset: enabled)
-     Active: active (running) since Wed 2023-08-15; 20 years old
-     Main PID: 2026 (node)
-     Status: "Operational. Processing concurrent systems traffic at scale."
-     Tasks: 12 (limit: 4915)
-     CGroup: /system.slice/lovekesh-anand.service
-             ├─Languages --JavaScript --Python --C --Bash
-             ├─Backend   --Node.js --Express.js --FastAPI --Prisma
-             ├─Databases --PostgreSQL --MongoDB --SQLite
-             └─DevOps    --AWS --Jenkins --Docker --PM2 --OpenVPN
-
-[INFO] Initializing secure telemetry handshake packet...
-[OK]   Stateless JWT & OTP access/refresh rotation layers verified.
-[OK]   Reverse proxy routing, host file resolution, and port conflicts resolved.
-[OK]   OpenVPN gateway tunnel active. Telemetry routing normal.
-```
+I am a Backend and Infrastructure Engineer focused on building secure, scalable backend architectures and robust server deployments. I bridge the gap between application logic and system-level operations, engineering high-performance APIs and configuring zero-downtime server setups.
 
 ---
 
-## 🧠 Core Competencies
+## 💻 Tech Stack
 
-### 🔐 Authentication & Session Hardening
-*   **State Control:** Designing secure stateless architectures utilizing JWT token pairs with refresh token rotation and secure storage strategies.
-*   **OTP & Verification:** Building robust, rate-limited email/SMS OTP systems to defend against brute force and replay vectors.
-*   **Access Management:** Structuring granular Role-Based Access Control (RBAC) schemas on PostgreSQL & MongoDB.
-
-### ☁️ Cloud Infrastructure & Deployment
-*   **Host Provisioning:** Configuring AWS EC2 architectures, security group parameters, and virtual private clouds (VPCs).
-*   **CI/CD Pipelines:** Automating build, test, and release cycles using Jenkins pipelines for zero-downtime continuous deployment.
-*   **Process Coordination:** Hardening production app runtimes with PM2 cluster clustering and automated process recovery.
-
-### 🌐 Networking & Production Triage
-*   **DNS & Routing:** Debugging network packet routing, custom domain mappings, and internal hostnames.
-*   **Traffic Handshakes:** Engineering reverse proxies (Nginx), load balancers, and resolving application port conflicts in staging/production.
-*   **VPN Enclaves:** Provisioning OpenVPN gateways to secure administration systems from public interface scans.
+- **Languages:** JavaScript, TypeScript, Python, C, Bash
+- **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs, WebSockets
+- **Databases & ORMs:** PostgreSQL, MongoDB, Prisma ORM, SQLite
+- **Infrastructure & DevOps:** AWS (EC2, VPC, Security Groups), Jenkins (CI/CD), Docker, PM2, Linux Administration
+- **Security & Networking:** OpenVPN, JWT (with Refresh Token Rotation), Nginx (Reverse Proxy), Burp Suite
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Core Areas of Practice
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` `C` `Bash` |
-| **Backend Frameworks** | `Node.js` `Express.js` `FastAPI` |
-| **Data Layer & ORMs** | `PostgreSQL` `MongoDB` `Prisma ORM` `SQLite` |
-| **Cloud & DevOps** | `AWS (EC2 / VPC)` `Jenkins (CI/CD)` `PM2` `Docker` `Linux` |
-| **Security & Routing** | `OpenVPN` `Nginx` `JWT` `Burp Suite` `REST APIs` |
+*   **Secure Authentication Architecture:** Designing stateless JWT session flows with refresh token rotation and rate-limited OTP verification systems.
+*   **Infrastructure Configuration:** Provisioning AWS EC2 virtual environments, managing VPC routing/security groups, and configuring PM2 clusters.
+*   **CI/CD Automation:** Building Jenkins pipelines to automate builds, testing, and continuous deployment workflows.
+*   **Production Triage:** Troubleshooting server port conflicts, DNS resolution failures, hosts file mapping, and reverse proxy issues.
+*   **Internal Networking:** Provisioning OpenVPN gateways to secure administration interfaces and isolate staging nodes.
 
 ---
 
@@ -74,12 +42,6 @@ $ systemctl status lovekesh-anand.service
 </div>
 
 ---
-
-## 🧩 Engineering Philosophy
-
-*   **Reliability > Features:** A system that is down is a system that does not exist. Write defensive code.
-*   **Security by Default:** Never treat security as a post-deployment checklist item.
-*   **Deep Infrastructure Understanding:** True backend engineering requires understanding everything that happens *after* the request hits the network adapter.
 
 <p align="center">
   <sub>“Production teaches what tutorials never will.”</sub>
