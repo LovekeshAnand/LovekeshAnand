@@ -1,128 +1,86 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+# Lovekesh Anand
+### Backend & Infrastructure Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Lovekesh+Anand;Backend+%26+Infrastructure+Engineer;Production+Systems+Focused;Building+Reliable+Backends+⚡" />
-</p>
-
-<p align="center">
-  <a href="https://lovekeshanand.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/lovekesh-anand-443138318/">LinkedIn</a> •
-  <a href="mailto:lovekeshanand6@gmail.com">Email</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=flat-square&logo=react&logoColor=white)](https://lovekesh-builds.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovekesh-anand-443138318/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lovekeshanand6@gmail.com)
 
 ---
 
-## 🧠 Who I Am
+## 🛠️ Telemetry & System Diagnostics
 
-Backend & Infrastructure-focused engineer with hands-on experience in:
+```bash
+$ systemctl status lovekesh-anand.service
+```
 
-- Designing secure authentication architectures (OTP + JWT + refresh rotation)
-- Managing AWS EC2 environments (VPC, security groups, instance configuration)
-- Debugging production-level failures (ports, DNS, reverse proxy, environment issues)
-- Configuring secure VPN-based internal access (OpenVPN)
-- Automating deployments using CI/CD pipelines
+```text
+● lovekesh-anand.service - Full-Stack & Systems Engineer Deck
+     Loaded: loaded (/etc/systemd/system/lovekesh-anand.service; enabled; vendor preset: enabled)
+     Active: active (running) since Wed 2023-08-15; 20 years old
+     Main PID: 2026 (node)
+     Status: "Operational. Processing concurrent systems traffic at scale."
+     Tasks: 12 (limit: 4915)
+     CGroup: /system.slice/lovekesh-anand.service
+             ├─Languages --JavaScript --Python --C --Bash
+             ├─Backend   --Node.js --Express.js --FastAPI --Prisma
+             ├─Databases --PostgreSQL --MongoDB --SQLite
+             └─DevOps    --AWS --Jenkins --Docker --PM2 --OpenVPN
 
-I work close to infrastructure — not just at the controller layer.
+[INFO] Initializing secure telemetry handshake packet...
+[OK]   Stateless JWT & OTP access/refresh rotation layers verified.
+[OK]   Reverse proxy routing, host file resolution, and port conflicts resolved.
+[OK]   OpenVPN gateway tunnel active. Telemetry routing normal.
+```
 
 ---
 
-## ⚙️ What I Actually Work On
+## 🧠 Core Competencies
 
-### 🔐 Authentication Systems
-- Access / Refresh token design
-- Stateless JWT architecture
-- Secure password hashing
-- OTP verification flows
-- Role-based access control
+### 🔐 Authentication & Session Hardening
+*   **State Control:** Designing secure stateless architectures utilizing JWT token pairs with refresh token rotation and secure storage strategies.
+*   **OTP & Verification:** Building robust, rate-limited email/SMS OTP systems to defend against brute force and replay vectors.
+*   **Access Management:** Structuring granular Role-Based Access Control (RBAC) schemas on PostgreSQL & MongoDB.
 
-### ☁️ Infrastructure & Deployment
-- EC2 provisioning & environment setup
-- Linux server debugging
-- PM2 process management
-- Jenkins-based deployment automation
-- Environment variable & secret handling
+### ☁️ Cloud Infrastructure & Deployment
+*   **Host Provisioning:** Configuring AWS EC2 architectures, security group parameters, and virtual private clouds (VPCs).
+*   **CI/CD Pipelines:** Automating build, test, and release cycles using Jenkins pipelines for zero-downtime continuous deployment.
+*   **Process Coordination:** Hardening production app runtimes with PM2 cluster clustering and automated process recovery.
 
-### 🌐 Networking & Production Debugging
-- DNS resolution issues
-- Hosts file mapping
-- Port conflicts
-- Reverse proxy misconfigurations
-- Secure VPN routing
+### 🌐 Networking & Production Triage
+*   **DNS & Routing:** Debugging network packet routing, custom domain mappings, and internal hostnames.
+*   **Traffic Handshakes:** Engineering reverse proxies (Nginx), load balancers, and resolving application port conflicts in staging/production.
+*   **VPN Enclaves:** Provisioning OpenVPN gateways to secure administration systems from public interface scans.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash" />
-</p>
-
----
-
-### ⚙ Backend Engineering
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma" />
-</p>
-
----
-
-### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-### ☁ Infrastructure & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/PM2-000000?style=for-the-badge" />
-</p>
-
----
-
-### 🌐 Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/OpenVPN-000000?style=for-the-badge&logo=openvpn" />
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Token_Based_Auth-000000?style=for-the-badge" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `TypeScript` `Python` `C` `Bash` |
+| **Backend Frameworks** | `Node.js` `Express.js` `FastAPI` |
+| **Data Layer & ORMs** | `PostgreSQL` `MongoDB` `Prisma ORM` `SQLite` |
+| **Cloud & DevOps** | `AWS (EC2 / VPC)` `Jenkins (CI/CD)` `PM2` `Docker` `Linux` |
+| **Security & Routing** | `OpenVPN` `Nginx` `JWT` `Burp Suite` `REST APIs` |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=tokyonight&hide_border=true&show_icons=true" alt="Github Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=tokyonight&hide_border=true" alt="Github Streak Stats" />
 </div>
 
 ---
 
 ## 🧩 Engineering Philosophy
 
-- Reliability > Features  
-- Security by default  
-- Debugging is a core engineering skill  
-- Infrastructure knowledge separates backend developers from backend engineers  
-
----
+*   **Reliability > Features:** A system that is down is a system that does not exist. Write defensive code.
+*   **Security by Default:** Never treat security as a post-deployment checklist item.
+*   **Deep Infrastructure Understanding:** True backend engineering requires understanding everything that happens *after* the request hits the network adapter.
 
 <p align="center">
-  <b>“Production teaches what tutorials never will.”</b>
+  <sub>“Production teaches what tutorials never will.”</sub>
 </p>
