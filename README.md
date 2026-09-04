@@ -33,16 +33,6 @@ I am a Backend and Infrastructure Engineer focused on building secure, scalable 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LovekeshAnand&theme=tokyonight&hide_border=true&show_icons=true" alt="Github Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovekeshAnand&theme=tokyonight&hide_border=true" alt="Github Streak Stats" />
-</div>
-
----
-
 <p align="center">
   <sub>“Production teaches what tutorials never will.”</sub>
 </p>
